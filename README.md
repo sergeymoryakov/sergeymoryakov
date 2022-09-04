@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sergeymoryakov
+- 👀 I’m an aviation professional and am passioned about digital
+- 🌱 I’m currently at the begining of the front end development learning
+- 💞️ I’m looking to collaborate on the digital onboarding best practices and in particular on Git, Visual Studio Code, HTML, CSS, Java Script, etc. 
+- 📫 How to reach me: sergey@moryakov.com and https://www.linkedin.com/in/sergey-moryakov/
