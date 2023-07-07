@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sergey Moryakov
 - 👀 Am an experienced aviation professional skilled in technical and commercial roles across the airline, manufacturing, and services sectors. Transitioned to software development after completing HarvardX CS50X program. 
 - 🌱 Am currently expanding expertise through Harvard CS50W and front-end development bootcamp. 
-- 💞️ Seeking front-end/full-stack developer position to contribute industry experience and programming skills for innovative solutions and exceptional user experiences. Open to collaborations and opportunities.
+- 💞️ Seeking web-developer position to contribute industry experience and programming skills for innovative solutions and exceptional user experiences. Open to collaborations and opportunities.
 - 📫 Feel free to reach me in Telegram (@smoryakov), connect in LinkedIn (https://www.linkedin.com/in/sergey-moryakov/), or drop me a letter (sergey@moryakov.com).
