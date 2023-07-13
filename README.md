@@ -1,10 +1,16 @@
-# Hi 👋, I’m Sergey Moryakov
-## Web Developer with Aviation Background 🌍 from Helsinki, Finland
-- I am an experienced aviation professional skilled in technical and commercial roles across the airline, manufacturing, and services sectors. Transitioned to software development after completing HarvardX CS50X program. 
-- 🌱 Am currently expanding web-development expertise through Harvard CS50W and Front-End Development Bootcamp. 
-- 👀 Seeking web-developer position to contribute industry experience and programming skills for innovative solutions and exceptional user experiences. Open to collaborations and opportunities.
-- 📫 Feel free to reach me in <a target="_blank" href="https://t.me/smoryakov">Telegram</a>, connect in 
-<a target="_blank" href="https://www.linkedin.com/in/sergey-moryakov">LinkedIn</a>, or drop me a 
-<a href="mailto:sergey@moryakov.com">mail</a>.
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=vscode,c,html,css,js,bootstrap,figma,py,flask,sqlite,git,github,discord,instagram,linkedin)](https://skillicons.dev)
+# Hi there! 👋 I'm Sergey Moryakov, a Web Developer with an Aviation Background 🌍 from Helsinki, Finland.
+
+## About Me
+🚀 I bring a wealth of experience as an aviation professional, having worked in technical and commercial roles across the airline, manufacturing, and services sectors. Recently, I made a successful transition to software development after completing the esteemed HarvardX CS50X program.
+
+## What I'm Currently Doing
+🌱 Currently, I'm expanding my web development expertise through Harvard CS50W and the Front-End Development Bootcamp. I'm passionate about continuously learning and staying up to date with the latest industry trends.
+
+## Seeking New Opportunities
+👀 I'm actively seeking a web developer position where I can leverage my industry experience and programming skills to create innovative solutions and exceptional user experiences. I'm open to collaborations and exciting opportunities that align with my goals.
+
+## Get in Touch
+📫 Feel free to reach out to me via [Telegram](https://t.me/smoryakov) or connect with me on [LinkedIn](https://www.linkedin.com/in/sergey-moryakov). You can also drop me an email at [sergey@moryakov.com](mailto:sergey@moryakov.com).
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=vscode,c,html,css,js,bootstrap,figma,py,flask,sqlite,git,github,discord,linkedin)](https://skillicons.dev)
