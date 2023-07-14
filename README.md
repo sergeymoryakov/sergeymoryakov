@@ -13,4 +13,4 @@
 📫 Feel free to reach out to me via [Telegram](https://t.me/smoryakov) or connect with me on [LinkedIn](https://www.linkedin.com/in/sergey-moryakov). You can also drop me an email at [sergey@moryakov.com](mailto:sergey@moryakov.com).
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=vscode,c,html,css,js,bootstrap,figma,py,flask,sqlite,git,github,discord,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,figma,c,py,flask,sqlite,git,github,discord,linkedin)](https://skillicons.dev)
