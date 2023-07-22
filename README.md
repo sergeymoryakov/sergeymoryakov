@@ -1,7 +1,8 @@
-# Hi there! 👋 I'm Sergey Moryakov, a Web Developer with an Aviation Background 🌍 from Helsinki, Finland.
+# Hi there! 👋 I'm Sergey Moryakov, a Web Developer with an Aviation Background.
 
 ## About Me
 🚀 I bring a wealth of experience as an aviation professional, having worked in technical and commercial roles across the airline, manufacturing, and services sectors. Recently, I made a successful transition to software development after completing the esteemed HarvardX CS50X program.
+🌍 I live in Helsinki, Finland.
 
 ## What I'm Currently Doing
 🌱 Currently, I'm expanding my web development expertise through Harvard CS50W and the Front-End Development Bootcamp. I'm passionate about continuously learning and staying up to date with the latest industry trends.
