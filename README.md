@@ -11,7 +11,7 @@
 👀 I'm actively seeking a web developer position where I can leverage my industry experience and programming skills to create innovative solutions and exceptional user experiences. I'm open to collaborations and exciting opportunities that align with my goals.
 
 ## Get in Touch
-📫 Feel free to reach out to me via [Telegram](https://t.me/smoryakov) or connect with me on [LinkedIn](https://www.linkedin.com/in/sergey-moryakov). You can also drop me an email at [sergey@moryakov.com](mailto:sergey@moryakov.com).
+📫 Feel free to reach out to me via [Telegram](https://t.me/smoryakov) or connect with me on [LinkedIn](https://www.linkedin.com/in/sergey-moryakov). You can also drop me an [email](mailto:sergey@moryakov.com).
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,figma,c,py,flask,sqlite,git,github,discord,linkedin)](https://skillicons.dev)
