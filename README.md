@@ -8,7 +8,7 @@
 🌱 Currently, I'm expanding my web development expertise through Harvard CS50W and the Front-End Development Bootcamp. I'm passionate about continuously learning and staying up to date with the latest industry trends.
 
 ## Seeking New Opportunities
-👀 I'm actively seeking a web developer position where I can leverage my industry experience and programming skills to create innovative solutions and exceptional user experiences. I'm open to collaborations and exciting opportunities that align with my goals.
+👀 I'm available for a web developer position where I can leverage my industry experience and programming skills to create innovative solutions and exceptional user experiences. I'm open to collaborations and exciting opportunities that align with my goals.
 
 ## Get in Touch
 📫 Feel free to reach out to me via [Telegram](https://t.me/smoryakov) or connect with me on [LinkedIn](https://www.linkedin.com/in/sergey-moryakov). You can also drop me an [Email](mailto:sergey@moryakov.com).
