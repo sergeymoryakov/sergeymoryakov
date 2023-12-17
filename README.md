@@ -1,44 +1,44 @@
-# Hi there! 👋 I'm Sergey, a Dreamer of Skies and Codes.
+# Hi there! 👋 I'm Sergey, Where Sky Meets Code.
 
 ## About Me
 
-🚀 Once a young dreamer fascinated by the mysteries of the skies and the magic of coding, I embarked on an incredible journey in the aviation world. For over two decades, I soared in the realms of commercial aviation, embracing roles from an airline technician to a sales leader. Now, reigniting my early passion for coding, I'm charting a new course in the world of web development. While the destination is yet unknown, I invite you to join me on this exciting journey. Let's explore the limitless possibilities together!
+🚀 I've always been curious about flying and coding. After almost 30 years in aviation, from fixing planes to leading sales teams, I'm now excited to focus on coding again. I'm starting a new adventure in software development and I'd love for you to join me. Let's discover what we can do together!
 
-🌍 Based in Helsinki, Finland, I blend my rich aviation experience with my newfound enthusiasm for technology, aiming to fuse these two worlds creatively.
+🌍 Living in Helsinki, Finland, I'm combining my knowledge of aviation with my love for technology.
 
 ## What I'm Currently Doing
 
-🌱 I'm currently diving deep into the ocean of web development. My toolkit is ever-expanding, with a focus on web technologies like React.js and TypeScript. Through Harvard's CS50 courses and an intensive Front-End Development Bootcamp, I'm constantly learning, growing, and embracing the thrill of innovation.
+🌱 I'm diving into web development now. My main tools are JavaScript, React.js and TypeScript. I'm learning a lot through Harvard's CS50 courses and a Front-End Development Bootcamp. Every day, I'm getting better and enjoying this new challenge.
 
 ## Seeking New Opportunities
 
-🚀 Eager to bring a unique blend of aviation insights and web development skills, I'm searching for a web developer role. I aim to contribute innovative solutions and engaging user experiences by integrating my industry knowledge with my technical skills. My enthusiasm for teamwork and exploring new frontiers positions me perfectly for teams that value vision and creativity.
+🚀 I'm looking for a role as a web developer where I can mix my aviation background with my coding skills. I want to create new things and make user experiences that stand out. I'm ready to work with a team that's forward-thinking and innovative.
 
 ## Let's Connect
 
-📧 Feel free to reach out to me for collaboration and project discussions.
+📧 You can contact me for any project ideas or collaborations. Let's talk about how we can work together.
 
 ## Skills at a Glance
 
 ### Proficiency:
 
--   HTML, CSS, JavaScript, TypeScript
--   React.JS
--   REST API Integration
--   Firebase Back-end Services
+- HTML, CSS, JavaScript, TypeScript
+- React.JS
+- REST API Integration
+- Firebase Back-end Services
 
 ### Development Tools:
 
--   Figma
--   Bootstrap
--   Parcel, Vite
--   Git, GitHub
--   Visual Studio Code
+- Figma
+- Bootstrap
+- Parcel, Vite
+- Git, GitHub
+- Visual Studio Code
 
 ### Academic Background:
 
--   Assembly, Fortran
--   C, Python
--   Flask, Django
--   OpenAI API
--   SQLite, Colab
+- Assembly, Fortran
+- C, Python
+- Flask, Django
+- OpenAI API
+- SQLite, Colab
