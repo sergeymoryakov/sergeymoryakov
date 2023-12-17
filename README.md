@@ -16,18 +16,18 @@
 
 ## Let's Connect
 
-📧 Feel free to reach out to me at [sergey@moryakov.com](mailto:sergey@moryakov.com) for collaboration and project discussions. Also connect with me on [Telegram](https://t.me/smoryakov) or [LinkedIn](https://www.linkedin.com/in/sergey-moryakov) to explore opportunities together.
+📧 Feel free to reach out to me at for collaboration and project discussions. Also connect with me on [LinkedIn](https://www.linkedin.com/in/sergey-moryakov) to explore opportunities together.
 
 ## Skills at a Glance
 
-Proficiency:
+### Proficiency:
 
 -   HTML, CSS, JavaScript, TypeScript
 -   React.JS
 -   REST API Integration
 -   Firebase Back-end Services
 
-Development Tools:
+### Development Tools:
 
 -   Figma
 -   Bootstrap
@@ -35,7 +35,7 @@ Development Tools:
 -   Git, GitHub
 -   Visual Studio Code
 
-Academic Background:
+### Academic Background:
 
 -   Assembly, Fortran
 -   C, Python
