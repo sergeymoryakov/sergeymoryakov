@@ -1,22 +1,44 @@
-# Hi there! 👋 I'm Sergey Moryakov, a Web Developer with an Aviation Background.
+# Hi there! 👋 I'm Sergey Moryakov, a Dreamer of Skies and Codes.
 
 ## About Me
 
-🛫 As an aviation professional with extensive technical and commercial experience spanning across the airline, manufacturing, and services sectors, I bring a unique perspective to the world of web development. Recently, I embarked on a new journey by transitioning to software development after successfully completing the prestigious HarvardX CS50X program.</br>
-🌍 Based in Helsinki, Finland, I'm passionate about fusing my aviation insights with cutting-edge technology.
+🚀 Once a young dreamer fascinated by the mysteries of the skies and the magic of coding, I embarked on an incredible journey in the aviation world. For over two decades, I soared in the realms of commercial aviation, embracing roles from an airline technician to a sales leader. Now, reigniting my early passion for coding, I'm charting a new course in the world of web development. While the destination is yet unknown, I invite you to join me on this exciting journey. Let's explore the limitless possibilities together!
+
+🌍 Based in Helsinki, Finland, I blend my rich aviation experience with my newfound enthusiasm for technology, aiming to fuse these two worlds creatively.
 
 ## What I'm Currently Doing
 
-🌱 My current focus is on honing my web development skills through immersive learning experiences. I'm actively pursuing further expertise by participating in the Harvard CS50W course and a comprehensive Front-End Development Bootcamp. I thrive on the excitement of continuous growth and innovation.
+🌱 I'm currently diving deep into the ocean of web development. My toolkit is ever-expanding, with a focus on web technologies like React.js and TypeScript. Through Harvard's CS50 courses and an intensive Front-End Development Bootcamp, I'm constantly learning, growing, and embracing the thrill of innovation.
 
 ## Seeking New Opportunities
 
-🚀 I'm on the lookout for a dynamic web developer position where I can seamlessly integrate my industry insights and programming prowess to craft ingenious solutions and deliver remarkable user experiences. My drive for collaboration and my enthusiasm for exploring uncharted territories make me a perfect fit for teams with a vision.
+🚀 Eager to bring a unique blend of aviation insights and web development skills, I'm searching for a web developer role. I aim to contribute innovative solutions and engaging user experiences by integrating my industry knowledge with my technical skills. My enthusiasm for teamwork and exploring new frontiers positions me perfectly for teams that value vision and creativity.
 
 ## Let's Connect
 
-📧 Reach out to me via [Email](mailto:sergey@moryakov.com), and let's discuss how we can collaborate on exciting projects. You can also find me on [Telegram](https://t.me/smoryakov) or [LinkedIn](https://www.linkedin.com/in/sergey-moryakov) to explore opportunities together.
+📧 Feel free to reach out to me at [sergey@moryakov.com](mailto:sergey@moryakov.com) for collaboration and project discussions. Also connect with me on [Telegram](https://t.me/smoryakov) or [LinkedIn](https://www.linkedin.com/in/sergey-moryakov) to explore opportunities together.
 
 ## Skills at a Glance
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,figma,c,py,flask,sqlite,git,github,discord,linkedin)](https://skillicons.dev)
+Proficiency:
+
+-   HTML, CSS, JavaScript, TypeScript
+-   React.JS
+-   REST API Integration
+-   Firebase Back-end Services
+
+Development Tools:
+
+-   Figma
+-   Bootstrap
+-   Parcel, Vite
+-   Git, GitHub
+-   Visual Studio Code
+
+Academic Background:
+
+-   Assembly, Fortran
+-   C, Python
+-   Flask, Django
+-   OpenAI API
+-   SQLite, Colab
