@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sergey Moryakov, a Dreamer of Skies and Codes.
+# Hi there! 👋 I'm Sergey, a Dreamer of Skies and Codes.
 
 ## About Me
 
@@ -16,7 +16,7 @@
 
 ## Let's Connect
 
-📧 Feel free to reach out to me at for collaboration and project discussions. Also connect with me on [LinkedIn](https://www.linkedin.com/in/sergey-moryakov) to explore opportunities together.
+📧 Feel free to reach out to me for collaboration and project discussions.
 
 ## Skills at a Glance
 
