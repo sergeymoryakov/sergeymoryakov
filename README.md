@@ -12,7 +12,7 @@
 
 ## Seeking New Opportunities
 
-🚀 I'm looking for a role as a web developer where I can mix my aviation background with my coding skills. I want to create new things and make user experiences that stand out. I'm ready to work with a team that's forward-thinking and innovative.
+🚀 I'm available for a role as a web developer where I can mix my aviation background with my coding skills. I want to create new things and make user experiences that stand out. I'm ready to work with a team that's forward-thinking and innovative.
 
 ## Let's Connect
 
@@ -22,23 +22,19 @@
 
 ### Proficiency:
 
-- HTML, CSS, JavaScript, TypeScript
-- React.JS
-- REST API Integration
-- Firebase Back-end Services
+HTML, CSS, JavaScript, TypeScript, React.JS, Rest API integration, Firebase back-end services.
 
 ### Development Tools:
 
-- Figma
-- Bootstrap
-- Parcel, Vite
-- Git, GitHub
-- Visual Studio Code
+Figma, Bootstrap, Parcel, Vite, Git, GitHub, Visual Studio Code
 
-### Academic Background:
+### Training Background:
 
-- Assembly, Fortran
-- C, Python
-- Flask, Django
-- OpenAI API
-- SQLite, Colab
+C, Python, Flask, Django, OpenAI API, SQLite, Colab.
+
+## Digital Trainings and Certifications
+
+• CS50X Introduction to Computer Science, HarvardX, 2023.
+• Real Frontend bootcamp, SD.CODE, 2023.
+• Building AI Products with OpenAI, Uplimit, 2023.
+• Software Developer with Assembly, Fortran, and C, Moscow High School No160, 1992.
