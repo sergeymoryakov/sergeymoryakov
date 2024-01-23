@@ -1,4 +1,4 @@
-# Hi There! 👋 I'm Sergey, Where Sky Meets Code.
+# Hi There! I'm Sergey.
 
 ## About Me
 
