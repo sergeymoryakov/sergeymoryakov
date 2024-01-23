@@ -10,7 +10,7 @@
 
 🌱 I'm diving into web development now. My main tools are JavaScript, React.js and TypeScript. I'm learning a lot through Harvard's CS50 courses and a Front-End Development Bootcamp. Every day, I'm getting better and enjoying this new challenge.
 
-## Seeking New Opportunities
+## Open for New Opportunities
 
 🚀 I'm available for a role as a web developer where I can mix my aviation background with my coding skills. I want to create new things and make user experiences that stand out. I'm ready to work with a team that's forward-thinking and innovative.
 
@@ -20,17 +20,11 @@
 
 ## Skills at a Glance
 
-### Proficiency:
+<li>Proficiency: HTML, CSS, JavaScript, TypeScript, React.JS, Rest API integration, Firebase back-end services. </li>
 
-HTML, CSS, JavaScript, TypeScript, React.JS, Rest API integration, Firebase back-end services.
+<li>Development Tools: Figma, Bootstrap, Parcel, Vite, Git, GitHub, Visual Studio Code </li>
 
-### Development Tools:
-
-Figma, Bootstrap, Parcel, Vite, Git, GitHub, Visual Studio Code
-
-### Training Background:
-
-C, Python, Flask, Django, OpenAI API, SQLite, Colab.
+<li>### Training Background: C, Python, Flask, Django, OpenAI API, SQLite, Colab. </li>
 
 ## Digital Trainings and Certifications
 
