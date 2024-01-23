@@ -2,7 +2,7 @@
 
 ## About Me
 
-🚀 I've always been curious about flying and coding. After almost 30 years in aviation, from fixing planes to leading sales teams, I'm now excited to focus on coding again. I'm starting a new adventure in software development and I'd love for you to join me. Let's discover what we can do together!
+🚀 I've always been curious about flying and coding. After almost 30 years in aviation, from fixing planes to leading sales teams, I'm now excited to focus on coding again. I'm updergoing a new adventure in web development and I'd love for you to join me. Let's discover what we can do together!
 
 🌍 Living in Helsinki, Finland, I'm combining my knowledge of aviation with my love for technology.
 
