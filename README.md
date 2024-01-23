@@ -24,7 +24,7 @@
 
 <li>Development Tools: Figma, Bootstrap, Parcel, Vite, Git, GitHub, Visual Studio Code </li>
 
-<li>### Training Background: C, Python, Flask, Django, OpenAI API, SQLite, Colab. </li>
+<li>Training Background: C, Python, Flask, Django, OpenAI API, SQLite, Colab. </li>
 
 ## Digital Trainings and Certifications
 
