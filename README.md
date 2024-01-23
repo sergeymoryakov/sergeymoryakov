@@ -34,7 +34,7 @@ C, Python, Flask, Django, OpenAI API, SQLite, Colab.
 
 ## Digital Trainings and Certifications
 
-• CS50X Introduction to Computer Science, HarvardX, 2023.
-• Real Frontend bootcamp, SD.CODE, 2023.
-• Building AI Products with OpenAI, Uplimit, 2023.
-• Software Developer with Assembly, Fortran, and C, Moscow High School No160, 1992.
+<li>• CS50X Introduction to Computer Science, HarvardX, 2023. </li> 
+<li>• Real Frontend bootcamp, SD.CODE, 2023. </li>
+<li>• Building AI Products with OpenAI, Uplimit, 2023. </li>
+<li>• Software Developer with Assembly, Fortran, and C, Moscow High School No160, 1992. </li>
