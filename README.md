@@ -2,13 +2,13 @@
 
 ## About Me
 
-🚀 I've always been curious about flying and coding. After almost 30 years in aviation, from fixing planes to leading sales teams, I'm now excited to focus on coding again. I'm updergoing a new adventure in web development and I'd love for you to join me. Let's discover what we can do together!
+🚀 I've always been curious about flying and coding. After years in aviation, from fixing planes to driving sales, I'm now excited to focus on coding again. I'm updergoing a new adventure in web development and I'd love for you to join me. Let's discover what we can do together!
 
 🌍 Living in Helsinki, Finland, I'm combining my knowledge of aviation with my love for technology.
 
 ## What I'm Currently Doing
 
-🌱 I'm diving into web development now. My main tools are JavaScript, React.js and TypeScript. I'm learning a lot through Harvard's CS50 courses and a Front-End Development Bootcamp. Every day, I'm getting better and enjoying this new challenge.
+🌱 I'm diving into web development now. My main stack includes JavaScript, React.js and TypeScript. I completed Harvard's CS50x class and a front-end development bootcamp. Every day, I'm getting better and enjoying this new challenge.
 
 ## Open for New Opportunities
 
