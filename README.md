@@ -20,11 +20,11 @@
 
 ## Skills at a Glance
 
-<li>Proficiency: HTML, CSS, JavaScript, TypeScript, React.JS, Rest API integration, Firebase back-end services. </li>
+<li>Technical Stack: HTML, CSS, JavaScript, TypeScript, React.JS, Redux, Rest API, Firebase.</li>
 
-<li>Development Tools: Figma, Bootstrap, Parcel, Vite, Git, GitHub, Visual Studio Code </li>
+<li>Development Tools: Figma, Bootstrap, Material UI, Parcel, Vite, Git, GitHub, VS Code.</li>
 
-<li>Training Background: C, Python, Flask, Django, OpenAI API, SQLite, Colab. </li>
+<li>Training Background: C, Python, Flask, Django, OpenAI API, SQLite, Colab.</li>
 
 ## Digital Trainings and Certifications
 
